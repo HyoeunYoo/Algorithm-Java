@@ -1,5 +1,5 @@
 /*
- * [코테책] p.240 08_4 몸풀기 문제
+ * [책] 18번 - 두 개의 수로 특정값 만들기
  * 2025.05.01
  * [X] 자료구조 / 해시
  * */
@@ -8,7 +8,7 @@ package hash;
 
 import java.util.HashSet;
 
-public class Book_240 {
+public class Book_18 {
     public static boolean solution(int[] arr, int target) {
         // 키만 저장하는 HashSet
         HashSet<Integer> hashSet = new HashSet<>();
