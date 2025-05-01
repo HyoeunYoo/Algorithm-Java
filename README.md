@@ -4,7 +4,7 @@
 
 ## 해시
 ### 책
-1. 18번 - 두 개의 수로 특정값 만들기
+1. [18번 - 두 개의 수로 특정값 만들기](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/hash/Book_18.java)
 
 <br/>
 
