@@ -4,7 +4,9 @@
 
 ## 스택
 ### 책
-1. [08번 - 올바른 괄호](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/hash/Book_08.java)
+1. [08번 - 올바른 괄호](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Book_08.java)
+
+<br/>
 
 ## 해시
 ### 책
