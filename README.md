@@ -24,6 +24,7 @@
 ## 트리
 ### 책
 1. [25번 - 트리 순회](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/tree/Book_25.java)
+2. [26번 - 예상 대진표](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/tree/Book_26.java)
 
 <br/>
 
