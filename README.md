@@ -21,5 +21,11 @@
 
 <br/>
 
+## 트리
+### 책
+1. [25번 - 트리 순회](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/tree/Book_25.java)
+
+<br/>
+
 ## 참고
 책 [코딩 테스트 합격자 되기: 자바 편 / 김희성 / 골든래빗(주)]
