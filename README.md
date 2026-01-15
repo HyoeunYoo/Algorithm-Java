@@ -2,6 +2,12 @@
 
 <br/>
 
+## 배열
+### 책
+1. [01번 - 배열 정렬하기](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/array/Book_01.java)
+
+<br/>
+
 ## 스택
 ### 책
 1. [08번 - 올바른 괄호](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Book_08.java)
