@@ -5,6 +5,7 @@
 ## 배열
 ### 책
 1. [01번 - 배열 정렬하기](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/array/Book_01.java)
+2. [02번 - 배열 제어하기](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/array/Book_02.java)
 
 <br/>
 
