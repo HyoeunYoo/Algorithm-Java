@@ -13,7 +13,7 @@
 | **큐**  |
 |   1    | 15번 - 요세푸스 문제                                                                  |      [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/queue/Book_15.java)      | [Noition](https://www.notion.so/hey00/15-1e7ec0f3aa3780e29a34d55402e1a6a0?source=copy_link) |    Lv.2    |   ✔️   | 2025-05-02 |
 | **스택** |
-|   1    | 08번 - 올바른 괄호                                                                   |      [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Book_08.java)      | [Notion](https://www.notion.so/hey00/08-1e7ec0f3aa37808d95a0e17a51664fc1?source=copy_link)  |    Lv.2    |   ✔️   | 2025-05-02 |
+|   1    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Programmers_12909.java) |  [Notion](https://www.notion.so/hey00/2f8ec0f3aa3780e29ec7febed2111cf3?source=copy_link)    |    Lv.2    |   ✔️   | 2026-01-30 |
 | **배열** |
 |   7    | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)       | [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/array/Programmers_49994.java) |   [Notion](https://www.notion.so/hey00/2f5ec0f3aa378061b0a2ceb2f7ca1b7c?source=copy_link)   |    Lv.2    |   ❌    | 2026-01-27 |
 |   6    | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)         | [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/array/Programmers_42889.java) |   [Notion](https://www.notion.so/hey00/2f1ec0f3aa3780dc9abac0cede4de981?source=copy_link)   |    Lv.1    |   ❌    | 2026-01-23 |
