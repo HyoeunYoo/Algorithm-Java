@@ -13,6 +13,7 @@
 | **큐**  |
 |   1    | 15번 - 요세푸스 문제                                                                  |      [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/queue/Book_15.java)      |  [Notion](https://www.notion.so/hey00/15-1e7ec0f3aa3780e29a34d55402e1a6a0?source=copy_link)  |    Lv.2    |   ✔️   | 2025-05-02 |
 | **스택** |
+|   3    | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)     | [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Programmers_76502.java) |   [Notion](https://www.notion.so/hey00/2fbec0f3aa3780e7bbbcf6ca10ec3af8?source=copy_link)    |    Lv.2    |   ❌    | 2026-02-02 |
 |   2    | 09번 - 10진수를 2진수로 변환하기                                                          |      [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Book_09.java)      | [Notion](https://www.notion.so/hey00/10-2-2f8ec0f3aa3780dcace7ed2e2eb76783?source=copy_link) |    Lv.1    |   ✔️   | 2026-01-30 |
 |   1    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)      | [Code](https://github.com/HyoeunYoo/Algorithm-Java/blob/main/src/stack/Programmers_12909.java) |   [Notion](https://www.notion.so/hey00/2f8ec0f3aa3780e29ec7febed2111cf3?source=copy_link)    |    Lv.2    |   ✔️   | 2026-01-30 |
 | **배열** |
